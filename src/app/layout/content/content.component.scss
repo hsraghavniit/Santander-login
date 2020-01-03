@@ -1,0 +1,32 @@
+.container{
+   background-color: #F0F0F0;
+  
+}
+
+.navigation{
+    
+    margin:auto 13vw;
+    display: flex;
+    align-self: auto;
+    
+}
+
+
+.user-nav{
+
+flex:0 0 18%;
+border-style: ridge;
+background-color: #F0F0F0   
+
+}
+
+.user-form{
+ 
+ flex:1;   
+background-color: #FFFFFF
+}
+
+
+a:active {
+        background-color: #E40900;
+      }  
